@@ -54,4 +54,5 @@ Estou cursando **Pós-graduação em Engenharia de Software** e buscando oportun
 ## Contato
 
 **LinkedIn:** [Vitoria Paulino](https://www.linkedin.com/in/vitoria-paulino-1a4b21376/)
-**GitHub:** github.com/vitoria-paulino (https://github.com/vitoria-paulino/vitoria-paulino/edit/main/README.md#atualmente).
+**GitHub:** github.com/vitoria-paulino
+
