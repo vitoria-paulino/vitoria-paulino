@@ -1,6 +1,6 @@
 # Olá! Eu sou a Vitoria Paulino
 
-Sou formada em **Gestão da Tecnologia da Informação (GTI)** e atualmente curso **Pós-graduação em Engenharia de Software**. Tenho interesse em **Análise de Sistemas**, tecnologia e desenvolvimento de soluções para otimização de processos.
+Sou formada em **Gestão da Tecnologia da Informação (GTI)** e atualmente sou **pós-graduanda em Engenharia de Software**. Tenho interesse em **Análise de Sistemas**, tecnologia e desenvolvimento de soluções para otimização de processos.
 
 Atualmente, trabalho na área de **RH**, onde utilizo planilhas diariamente e busco formas de melhorar e otimizar processos. Essa experiência me permite unir conhecimentos de tecnologia com a realidade dos processos corporativos.
 
@@ -54,3 +54,4 @@ Estou cursando **Pós-graduação em Engenharia de Software** e buscando oportun
 ## Contato
 
 **LinkedIn:** [Vitoria Paulino](https://www.linkedin.com/in/vitoria-paulino-1a4b21376/)
+**GitHub:** github.com/vitoria-paulino (https://github.com/vitoria-paulino/vitoria-paulino/edit/main/README.md#atualmente).
